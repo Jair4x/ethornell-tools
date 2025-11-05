@@ -230,6 +230,9 @@ data01600.arc.new
 3. **Test your changes**: Before replacing the original .arc files, test the uncompressed files by putting them in the parent folder, where the game's executable is at.
 4. **Backup everything**: Always keep backups of original game files before modifying
 5. **Check keys.txt**: After running analyze_all, verify that all files have keys in `keys.txt`
+6. Most dialog scripts are almost always stored in `data015x0.arc`. (`data01500.arc`, `data01510.arc`, `data01520.arc` and so on)
+7. Sometimes, menu images and CGs you might want to edit are stored in `data025x0.arc`.
+8. I strongly recommend you use [marcussacana's SacanaWrapper](https://github.com/marcussacana/SacanaWrapper) with the plugin for BGI files to work with the scenario scripts and make translation easier.
 
 ---
 
