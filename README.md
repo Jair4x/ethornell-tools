@@ -63,9 +63,9 @@ A tool to get the encryption key of the original DSC file. The only special thin
 
 ---
 
-## Working in batches? I got you
+## Working in batches? I got you!
 
-There are batch files for both Windows (`.bat`) and Linux (`.sh`) in the `Batch (windows)` and `Batch (linux)` folders respectively. These scripts can be run from their folders or from the parent directory - they automatically search for the Python scripts in both locations.
+There are batch files for both Windows (`.bat`) and Linux (`.sh`) files in the `Batch (windows)` and `Batch (linux)` folders respectively. These scripts can be run from their folders or from the parent directory, they automatically search for the Python scripts in both locations.
 
 They're made to process multiple files at once, minimizing your work if you're working with the whole game. Plus, they're interactive, so you'll know what each batch file needs.
 
